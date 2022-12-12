@@ -21,4 +21,9 @@
     dataRowStart = 4
     dataRowEnd = 15
 ## Summary
-### Refactoring code resulted in breaking and reorganizing the coding script to include the 2017 results as well as the issues with replicating the code to make sure that it showed both 2017 and 2018 when the inputBox came up. Refactoring the code was easier with a comment template placed over the script so I could identify the order of the coding and make the appropriate commands to reinegrate the data from the 2017 and 2018 stock data sheets. Refactoring the code solidified some of the complicated codes for me and gave me practical practice. The original VBA coding was much more like a puzzle where the pieces (coding) fit together as you went along to create a beautiful picture. Refactoring the coding meant breaking the puzzle apart, not putting it back together by what pieces fit but by ordered tasks.
+### Refactoring code resulted in breaking and reorganizing the coding script to include the 2017 results as well as the issues with replicating the code to make sure that it showed both 2017 and 2018 when the inputBox came up. Refactoring the code was easier with a comment template placed over the script so I could identify the order of the coding and make the appropriate commands to reinegrate the data from the 2017 and 2018 stock data sheets. Refactoring the code solidified some of the complicated codes for me and gave me practical practice. It also allowed the code to run a little faster. As pictured below in the comparison of times.
+## refactored: 
+https://raw.githubusercontent.com/lvb19927/stock-analysis/main/VBA_Challenge_2017.png
+https://raw.githubusercontent.com/lvb19927/stock-analysis/main/VBA_Challenge_2018.png
+**One second quicker than the original VBA coding**
+The original VBA coding was much more like a puzzle where the pieces (coding) fit together as you went along to create a beautiful picture. Refactoring the coding meant breaking the puzzle apart, not putting it back together by what pieces fit but by ordered tasks.
